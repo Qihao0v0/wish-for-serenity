@@ -4,6 +4,7 @@ title: 个人做的一些项目
 author: 奇好
 date: 2026-10-25T05:29:22+08:00
 updated: 2026-10-25T05:29:22+08:00
+disableNunjucks: true
 categories:
   - root
 ---
